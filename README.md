@@ -1,7 +1,3 @@
-![com lionosur jarvis-header](https://github.com/user-attachments/assets/7b1edcf1-6768-439b-ab09-b99999a40565)
-
-
-
 # 🤖 Jarvis – Personal Desktop AI Assistant
 
 Jarvis is a voice-controlled desktop AI assistant built with Python. It can perform various tasks such as searching Wikipedia, telling jokes, playing music, opening applications, and much more – all through simple voice commands.
@@ -17,6 +13,10 @@ Jarvis is a voice-controlled desktop AI assistant built with Python. It can perf
 - 💻 Automate keyboard and screen actions using `pyautogui`
 - 🎤 Voice recognition via `speech_recognition`
 - 🗣️ Text-to-speech using `pyttsx3`
+
+  ![com lionosur jarvis-header](https://github.com/user-attachments/assets/7b1edcf1-6768-439b-ab09-b99999a40565)
+
+
 
 ## 🛠️ Technologies Used
 
@@ -38,4 +38,6 @@ Make sure you have Python 3 installed. Then install the required libraries:
 ```bash
 pip install pyttsx3 speechrecognition wikipedia pyautogui pywhatkit pyjokes
 python jarvis.py
+
+
 
